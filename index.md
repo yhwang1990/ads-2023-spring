@@ -34,7 +34,7 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 - 6: 马尔可夫链与随机游走 (Markov Chain and Random Walk) [[ppt](https://pan.baidu.com/s/1KfkwEcy7VeJhb0vWkYxORA)] (提取码：k754)
 - 期中总结 (Mid-Term Summary)
 - 7: 特征值分解 (Eigenvalue Computation) [[ppt](https://pan.baidu.com/s/1wkBRWeikzyFc10C6G8yYeA)] (提取码：6hen)
-- 8: 奇异值分解与主成分分析 (SVD and PCA)
+- 8: 奇异值分解与主成分分析 (SVD and PCA) [[ppt](https://pan.baidu.com/s/1YLUV7Q6HvWW1GjayNDuFcg)] (提取码：47qs)
 - 9: 矩阵因式分解 (Matrix Decomposition)
 - 10: 线性与整数规划 (Linear & Integer Programming)
 - 11: 次模函数 (Submodular Function)
