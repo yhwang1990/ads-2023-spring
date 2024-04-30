@@ -31,7 +31,7 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 - 3: 哈希算法 (Hashing) [[ppt](https://pan.baidu.com/s/1G0IA0IA9EVAujCr9f4GYIQ)] (提取码：3lmg) [[lsh](https://pan.baidu.com/s/1TjC9ts5vRVfTOAn56ruHkA)] (提取码：qdbs) [[习题答案](https://pan.baidu.com/s/119pgWTauhCdI85NYyA-xvw)] (提取码：vj6m)
 - 4: 概要数据结构 (Sketch) [[ppt](https://pan.baidu.com/s/1Kisz8IQPL-MMzKNu6lVB6Q)] (提取码：hzf8) [[习题答案](https://pan.baidu.com/s/1Q8Xc5DTzSz_OH26gXyzKrQ)] (提取码：8vee)
 - 5: 采样算法 (Sampling) [[ppt](https://pan.baidu.com/s/1-I7Vz0SvXl_Zf4PGN6eLNw)] (提取码：iwaa) [[stream1](https://pan.baidu.com/s/1j52C2yLwu1IxXgDc4-dIDA)] (提取码：ibz7) [[stream2](https://pan.baidu.com/s/1WSrf3_ik1uCxngjYvSDm3A)] (提取码：lh2i) [[习题答案](https://pan.baidu.com/s/1pJfrIyujutq9AnmkUyVX3w)] (提取码：gisa)
-- 6: 马尔可夫链与随机游走 (Markov Chain and Random Walk) [[ppt](https://pan.baidu.com/s/1KfkwEcy7VeJhb0vWkYxORA)] (提取码：k754)
+- 6: 马尔可夫链与随机游走 (Markov Chain and Random Walk) [[ppt](https://pan.baidu.com/s/1KfkwEcy7VeJhb0vWkYxORA)] (提取码：k754) [[习题答案](https://pan.baidu.com/s/1ZPcbVAdZ4Ufu6ApkssLzsw)] (提取码：8ec2)
 - 期中总结 (Mid-Term Summary)
 - 7: 特征值分解 (Eigenvalue Computation) [[ppt](https://pan.baidu.com/s/1wkBRWeikzyFc10C6G8yYeA)] (提取码：6hen)
 - 8: 奇异值分解与主成分分析 (SVD and PCA) [[ppt](https://pan.baidu.com/s/1YLUV7Q6HvWW1GjayNDuFcg)] (提取码：47qs)
