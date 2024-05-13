@@ -35,7 +35,7 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 - 期中总结 (Mid-Term Summary)
 - 7: 特征值分解 (Eigenvalue Computation) [[ppt](https://pan.baidu.com/s/1wkBRWeikzyFc10C6G8yYeA)] (提取码：6hen)
 - 8: 奇异值分解与主成分分析 (SVD and PCA) [[ppt](https://pan.baidu.com/s/1YLUV7Q6HvWW1GjayNDuFcg)] (提取码：47qs)
-- 9: 矩阵因式分解 (Matrix Decomposition)
+- 9: 矩阵因式分解 (Matrix Decomposition) [[ppt](https://pan.baidu.com/s/1VfAgPWG35fb5EivCs8pM8A)] (提取码：d8ka)
 - 10: 线性与整数规划 (Linear & Integer Programming)
 - 11: 次模函数 (Submodular Function)
 - 12: 社区发现 (Community)
