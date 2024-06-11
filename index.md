@@ -38,7 +38,7 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 - 9: 矩阵因式分解 (Matrix Decomposition) [[ppt](https://pan.baidu.com/s/1VfAgPWG35fb5EivCs8pM8A)] (提取码：d8ka) [[习题答案](https://pan.baidu.com/s/1_Rc7ECwNx9-rzANvUUEyow)] (提取码：fjy7)
 - 10: 线性与整数规划 (Linear & Integer Programming) [[LP](https://pan.baidu.com/s/12gnBhOtDULq1t4NahfjOEA)] (提取码：5mvr) [[ppt](https://pan.baidu.com/s/12x9tQZW5moVT9zWOsDhUvg)] (提取码：xqrv)
 - 11: 次模函数 (Submodular Function) [[ppt](https://pan.baidu.com/s/1s5evhgITzTRSNN1ZDFfn0g)] (提取码：624n)
-- 12: 社区发现 (Community)
+- 12: 社区发现 (Community) [[ppt](https://pan.baidu.com/s/1Esv6eZm2gF2Wap492t24aQ)] (提取码：b8u3)
 - 期末总结 (Summary)
 
 ### 课程项目
