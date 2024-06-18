@@ -36,9 +36,9 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 - 7: 特征值分解 (Eigenvalue Computation) [[ppt](https://pan.baidu.com/s/1wkBRWeikzyFc10C6G8yYeA)] (提取码：6hen) [[习题答案](https://pan.baidu.com/s/1rlEycRcyvEdaauemA-4s2A)] (提取码：a1jb)
 - 8: 奇异值分解与主成分分析 (SVD and PCA) [[ppt](https://pan.baidu.com/s/1YLUV7Q6HvWW1GjayNDuFcg)] (提取码：47qs) [[习题答案](https://pan.baidu.com/s/18drngvxUuPW6a5oIDVbGDQ)] (提取码：7zts)
 - 9: 矩阵因式分解 (Matrix Decomposition) [[ppt](https://pan.baidu.com/s/1VfAgPWG35fb5EivCs8pM8A)] (提取码：d8ka) [[习题答案](https://pan.baidu.com/s/1_Rc7ECwNx9-rzANvUUEyow)] (提取码：fjy7)
-- 10: 线性与整数规划 (Linear & Integer Programming) [[LP](https://pan.baidu.com/s/12gnBhOtDULq1t4NahfjOEA)] (提取码：5mvr) [[ppt](https://pan.baidu.com/s/12x9tQZW5moVT9zWOsDhUvg)] (提取码：xqrv)
-- 11: 次模函数 (Submodular Function) [[ppt](https://pan.baidu.com/s/1s5evhgITzTRSNN1ZDFfn0g)] (提取码：624n)
-- 12: 社区发现 (Community) [[ppt](https://pan.baidu.com/s/1Esv6eZm2gF2Wap492t24aQ)] (提取码：b8u3)
+- 10: 线性与整数规划 (Linear & Integer Programming) [[LP](https://pan.baidu.com/s/12gnBhOtDULq1t4NahfjOEA)] (提取码：5mvr) [[ppt](https://pan.baidu.com/s/12x9tQZW5moVT9zWOsDhUvg)] (提取码：xqrv) [[习题答案](https://pan.baidu.com/s/1kUH_8MnK1khkJLd-YAP-Bw)] (提取码：tt2n)
+- 11: 次模函数 (Submodular Function) [[ppt](https://pan.baidu.com/s/1s5evhgITzTRSNN1ZDFfn0g)] (提取码：624n) [[习题答案](https://pan.baidu.com/s/1MD-Y53N3lRIXHr2IC94XoA)] (提取码：dp7w)
+- 12: 社区发现 (Community) [[ppt](https://pan.baidu.com/s/1Esv6eZm2gF2Wap492t24aQ)] (提取码：b8u3) [[习题答案](https://pan.baidu.com/s/1NkZCZu5lgcMbZtOBOdHndA)] (提取码：ziwe)
 - 期末总结 (Summary)
 
 ### 课程项目
